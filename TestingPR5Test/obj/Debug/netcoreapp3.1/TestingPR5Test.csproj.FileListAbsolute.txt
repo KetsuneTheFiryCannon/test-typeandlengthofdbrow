@@ -1,0 +1,16 @@
+C:\Users\sasha\source\repos\TestingPR5Test\TestingPR5Test\bin\Debug\netcoreapp3.1\TestingPR5Test.exe
+C:\Users\sasha\source\repos\TestingPR5Test\TestingPR5Test\bin\Debug\netcoreapp3.1\TestingPR5Test.deps.json
+C:\Users\sasha\source\repos\TestingPR5Test\TestingPR5Test\bin\Debug\netcoreapp3.1\TestingPR5Test.runtimeconfig.json
+C:\Users\sasha\source\repos\TestingPR5Test\TestingPR5Test\bin\Debug\netcoreapp3.1\TestingPR5Test.runtimeconfig.dev.json
+C:\Users\sasha\source\repos\TestingPR5Test\TestingPR5Test\bin\Debug\netcoreapp3.1\TestingPR5Test.dll
+C:\Users\sasha\source\repos\TestingPR5Test\TestingPR5Test\bin\Debug\netcoreapp3.1\TestingPR5Test.pdb
+C:\Users\sasha\source\repos\TestingPR5Test\TestingPR5Test\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\sasha\source\repos\TestingPR5Test\TestingPR5Test\obj\Debug\netcoreapp3.1\TestingPR5Test.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\TestingPR5Test\TestingPR5Test\obj\Debug\netcoreapp3.1\TestingPR5Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\TestingPR5Test\TestingPR5Test\obj\Debug\netcoreapp3.1\TestingPR5Test.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\TestingPR5Test\TestingPR5Test\obj\Debug\netcoreapp3.1\TestingPR5Test.AssemblyInfo.cs
+C:\Users\sasha\source\repos\TestingPR5Test\TestingPR5Test\obj\Debug\netcoreapp3.1\TestingPR5Test.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\TestingPR5Test\TestingPR5Test\obj\Debug\netcoreapp3.1\TestingPR5Test.csproj.CopyComplete
+C:\Users\sasha\source\repos\TestingPR5Test\TestingPR5Test\obj\Debug\netcoreapp3.1\TestingPR5Test.dll
+C:\Users\sasha\source\repos\TestingPR5Test\TestingPR5Test\obj\Debug\netcoreapp3.1\TestingPR5Test.pdb
+C:\Users\sasha\source\repos\TestingPR5Test\TestingPR5Test\obj\Debug\netcoreapp3.1\TestingPR5Test.genruntimeconfig.cache

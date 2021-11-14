@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1WSIci+FxKzY86Lthrc6aejKIFsTnWIxYKojknQm9UF1mdTnjYdazWIXQ2JeR9ia+tvlfkvxVtgI0gF7WY4P/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sasha\\source\\repos\\TestingPR5Test\\TestingPR5Test\\TestingPR5Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sasha\\.nuget\\packages\\npgsql\\5.0.10\\npgsql.5.0.10.nupkg.sha512",
+    "C:\\Users\\sasha\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
